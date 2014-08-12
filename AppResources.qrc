@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>About.png</file>
+        <file>copy.png</file>
+        <file>do.png</file>
+        <file>Edit.png</file>
+        <file>New.png</file>
+        <file>open_folder_yellow.png</file>
+        <file>paste.png</file>
+        <file>Save As.png</file>
+        <file>Save.png</file>
+        <file>undo.png</file>
+        <file>cut.png</file>
+        <file>Dolan_vector_by_sapphirebeam-d5aantn.png</file>
+    </qresource>
+</RCC>
